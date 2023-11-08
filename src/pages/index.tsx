@@ -72,7 +72,7 @@ export default function Home() {
                 investments.
               </li>
               <li>
-                These credits will get converted into Cryptocurrency tokens
+                These credits will get converted into Credits
                 which can be used to pay energy bills.
               </li>
             </ol>
